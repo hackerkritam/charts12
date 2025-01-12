@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/chartjs-react-tutorial/static/css/main.78397dfb.css",
-    "main.js": "/chartjs-react-tutorial/static/js/main.a327f75c.js",
-    "static/js/453.8e0009aa.chunk.js": "/chartjs-react-tutorial/static/js/453.8e0009aa.chunk.js",
-    "index.html": "/chartjs-react-tutorial/index.html",
-    "main.78397dfb.css.map": "/chartjs-react-tutorial/static/css/main.78397dfb.css.map",
-    "main.a327f75c.js.map": "/chartjs-react-tutorial/static/js/main.a327f75c.js.map",
-    "453.8e0009aa.chunk.js.map": "/chartjs-react-tutorial/static/js/453.8e0009aa.chunk.js.map"
+    "main.css": "/CAR/static/css/main.78397dfb.css",
+    "main.js": "/CAR/static/js/main.eb253590.js",
+    "static/js/453.8e0009aa.chunk.js": "/CAR/static/js/453.8e0009aa.chunk.js",
+    "index.html": "/CAR/index.html",
+    "main.78397dfb.css.map": "/CAR/static/css/main.78397dfb.css.map",
+    "main.eb253590.js.map": "/CAR/static/js/main.eb253590.js.map",
+    "453.8e0009aa.chunk.js.map": "/CAR/static/js/453.8e0009aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78397dfb.css",
-    "static/js/main.a327f75c.js"
+    "static/js/main.eb253590.js"
   ]
 }
