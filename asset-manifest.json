@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CAR/static/css/main.78397dfb.css",
-    "main.js": "/CAR/static/js/main.eb253590.js",
-    "static/js/453.8e0009aa.chunk.js": "/CAR/static/js/453.8e0009aa.chunk.js",
-    "index.html": "/CAR/index.html",
-    "main.78397dfb.css.map": "/CAR/static/css/main.78397dfb.css.map",
-    "main.eb253590.js.map": "/CAR/static/js/main.eb253590.js.map",
-    "453.8e0009aa.chunk.js.map": "/CAR/static/js/453.8e0009aa.chunk.js.map"
+    "main.css": "/charts12/static/css/main.78397dfb.css",
+    "main.js": "/charts12/static/js/main.f6a35bbf.js",
+    "static/js/453.8e0009aa.chunk.js": "/charts12/static/js/453.8e0009aa.chunk.js",
+    "index.html": "/charts12/index.html",
+    "main.78397dfb.css.map": "/charts12/static/css/main.78397dfb.css.map",
+    "main.f6a35bbf.js.map": "/charts12/static/js/main.f6a35bbf.js.map",
+    "453.8e0009aa.chunk.js.map": "/charts12/static/js/453.8e0009aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78397dfb.css",
-    "static/js/main.eb253590.js"
+    "static/js/main.f6a35bbf.js"
   ]
 }
